@@ -25,7 +25,7 @@ Basic using of Ncurses, it was in my few weeks of learning C, and my first proje
 Clone the project
 
 ```bash
-  git clone git@github.com:anthonyardhuin/my_hunter.git
+  git clone git@github.com:anthonyardhuin/my_sokoban.git
 ```
 
 Go to the project directory
