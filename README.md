@@ -13,12 +13,12 @@ Epitech solo project to do a "Sokoban" type of game. Sokoban is a puzzle video g
 
 
 ## 🛠 Skills
-C - CSFML (Graphical extension)
+C - Ncurses
 
 
 ## Lessons Learned
 
-Basic using of CSFML, it was in my few weeks of learning C, and my first graphical project.
+Basic using of Ncurses, it was in my few weeks of learning C, and my first project using Ncurses.
 
 ## Run Locally
 
